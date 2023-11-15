@@ -1,0 +1,29 @@
+[
+  {
+    "titulo": "Novo Grupo de Musica",
+    "descricao": "Artista X forma um novo grupo de música com artistas Y e Z.",
+    "data": "2023-11-15",
+    "media": {
+      "tipo": "audio",
+      "url": "https://cdn.glitch.global/7942c822-bd44-408c-8a0a-8d966f76612e/freddy-fast-bear-made-with-Voicemod-technology.mp3?v=1700058285327"
+    }
+  },
+  {
+    "titulo": "Nova música lançada",
+    "descricao": "Artista X lança uma nova música que está dominando as paradas.",
+    "data": "2023-11-14",
+    "media": {
+      "tipo": "imagem",
+      "url": "https://cdn.glitch.global/7942c822-bd44-408c-8a0a-8d966f76612e/oie_vU4dlOGmGuPy.png?v=1700059100343"
+    }
+  },
+  {
+    "titulo": "Entrevista exclusiva",
+    "descricao": "Conversamos com a estrela em ascensão sobre sua carreira e influências musicais.",
+    "data": "2023-11-13",
+    "media": {
+      "tipo": "video",
+      "url": "https://cdn.glitch.global/7942c822-bd44-408c-8a0a-8d966f76612e/CCdJZfGLeILoSvoS.mp4?v=1700058184006"
+    }
+  }
+]
